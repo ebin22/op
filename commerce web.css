@@ -1,0 +1,562 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+    width: 100%;
+   
+
+
+
+}
+.navbar{
+    padding-top: 20px;
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 80px;
+    font-family: Quella;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 39.02px;
+    text-align: left;
+
+}
+.content{
+    display: flex;
+    width: Hug (315px)px;
+  height: Hug (27px)px;
+   top: 48px;
+  left: 334px;
+  gap: 48px;
+  opacity: 0px;
+ 
+ 
+   
+}
+.ho{ font-family: "Poppins", sans-serif;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 64px;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+ a{
+    
+    margin-left: -500px;
+    font-family: "Poppins", sans-serif;
+    color: rgb(115, 115, 115);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 64px;
+    
+    margin-left: 40px;
+    margin-top: 40px;
+    
+    
+}
+.icon{
+    padding-right: 60px;
+    img{
+        margin: 20px;
+    }
+    cursor: pointer;
+}
+
+.lpo{
+    margin-top: 20px;
+    width: Hug (168px)px;
+ height: Hug (51px)px;
+ padding: 10px 20px 10px 20px;
+ gap: 10px;
+ border-radius: 8px 8px 8px 8px;
+ opacity: 0px;
+ background-color: #C1DCDC;
+ border: none;
+cursor: pointer;
+}
+.lpo:hover{
+    background-color: #a1c1c1; 
+
+}
+.draw{
+    
+    background-color:  #C1DCDC;
+    width: 1248px;
+    height: 515px;
+    border-radius: 50px;
+    display: flex;
+    margin: auto;
+}
+.opimg{
+position: relative;
+}
+.ab{position: absolute;
+    width: 430px;
+    height: 390px;
+    background-color: black;
+    left: 360px;
+    top: 124px;
+    border-radius: 180px 160px 1px 180px;
+}
+
+.hi{
+    position: absolute;
+    left: 410px;
+    top: 20px;
+}
+.div1{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 64px;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+
+
+
+.d{
+    margin-top: 200px;
+    margin-left: -420px;
+    font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 40px;
+}
+.g{
+    margin-top: 200px;
+    margin-left: 40px;
+    height: 500px;
+    img{
+        height: 60px;
+        width: 1px;
+    }
+}
+.f{
+    margin-top: 200px;
+    margin-left: 50px;
+    font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 40px;
+}
+
+input{
+    margin-left: -300px;
+    margin-top: 330px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 350px;
+    height: 25px;
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+}
+.fa-magnifying-glass{
+    
+    background-color: #C1DCDC;
+    margin-top: 338px;
+    margin-left: -35px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+
+.shopping{
+    width: 90%;
+    height: 450px;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+}
+.shop{
+    width: 256px;
+    height: 96px;
+    
+   
+    h4{
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 31px;
+        line-height: 48px;
+    }
+    p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 27px;
+        color: rgb(184, 184, 184);
+    }
+}
+.box{
+    margin: 20px;
+    
+    h6{
+        font-family: "Poppins", sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 27px;
+        text-align: left;
+
+    }
+    p{
+        font-family: "Poppins", sans-serif ;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 27px;
+        text-align: left;
+
+    }
+}
+.about{
+   display: flex;
+   margin: auto;
+   margin-top: 100px;
+}
+
+
+.Categories{
+    text-align: center;
+    h2{
+        font-family: "Poppins", sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 48px;
+        
+    }
+    p{  margin-top: 15px;
+        color: rgb(159, 159, 159);
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+    }
+}
+
+.bbox{
+    width: 100%;
+    height: 841px;
+    background-color:  #C1DCDC;
+    margin-top: 200px;
+    display: flex;
+    
+}
+.abox{
+    img{
+        margin-top: -100px;
+        margin-left: 80px;
+    }
+}
+
+.nbox{
+    h3{
+        margin-top: 15px;
+        color: rgb(40, 39, 39);
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 27px;
+        margin-left: 200px;
+    }
+    img{
+        margin-top: 80px;
+        margin-left: 100px;
+    }
+}
+.horem{
+    text-align: justify;
+    margin-left: 195px;
+    padding-top: 10px;
+    color: rgb(102, 102, 102);;
+}
+.Explore{
+    width: Hug (147px)px;
+   height: Hug (51px)px;
+   padding: 10px 20px 10px 20px;
+   gap: 10px;
+   border-radius: 8px 8px 8px 8px;
+   opacity: 0px;
+   margin-left: 220px;
+   margin-top: 10px;
+
+}
+.mbox{
+    h3{
+        margin-top: 15px;
+        color: rgb(40, 39, 39);
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 27px;
+        margin-left: 200px;
+    }
+    img{
+        margin-top: -100px;
+        margin-left: 100px;
+    }
+}
+.cust{
+    height: 800px;
+    h1{
+        font-family: "Poppins", sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 48px;
+        margin-left: 80px; 
+        margin-top: 80px;
+        display: flex;
+    }
+}
+.person{
+    margin-top: 100px;
+    margin-left: 80px;
+    background-color: #C1DCDC;
+    width: 600px;
+     height: 250px;
+    border-radius: 12px 0px 0px 0px;
+    text-align: justify;
+    
+img{
+    margin-top: -23px;
+    width: 100px;
+
+}
+
+
+}
+.vb{
+   
+        padding: 40px;
+  
+}
+.name{
+    margin-top: -100px;
+    display: flex;
+    justify-content: space-around;
+}
+.fa-star{
+    margin-left: 150px;
+}
+
+
+.lperson{
+    margin-top: -240px;
+    margin-left: 880px;
+    background-color: #C1DCDC;
+    width: 600px;
+     height: 250px;
+    border-radius: 12px 0px 0px 0px;
+    text-align: justify;
+    
+img{
+    margin-top: -23px;
+    width: 100px;
+
+}
+.kcv{
+    margin-top: -35px;
+    margin-left: 10px;
+}
+
+}
+.mvb{
+   
+        padding: 40px;
+  
+}
+.pname{
+    margin-top: -100px;
+    display: flex;
+    justify-content: space-around;
+}
+.fa-star{
+    margin-left: 150px;
+}
+
+.footer{
+    position: relative;
+    width:100%;
+height: 300px;
+margin-top: -120px;
+gap: 0px;
+opacity: 0px;
+background-color: #C1DCDC;
+
+}
+.logo2{
+    position: absolute;
+    top: 20px;
+    margin-left: 80px;
+    font-family: Quella;
+    font-size: 10px;
+    font-weight: 400;
+
+}
+.help{
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    font-size: 24px;
+    color: rgba(30, 30, 30, 0.5);
+    }
+
+    .appicon{
+        
+        position: relative;
+        top: 180px;
+        margin-left: 80px;
+        display: flex;
+      
+    }
+    .face{
+     position: relative;
+     cursor: pointer;
+    }
+    .cy{
+    position: absolute;
+    height: 42px;
+    width: 42px;
+    }
+    .fc{
+        position: absolute;
+        top: 14px;
+        left:16px;
+        .img{
+            top:80px
+        }
+    }
+
+
+    .instagram{
+        position: relative;
+        margin-left: 60px;
+        cursor: pointer;
+       }
+       .cye{
+       position: absolute;
+       height: 42px;
+       width: 42px;
+       }
+       .insta{
+        position: absolute;
+        top: 12px;
+        left:12px;
+        
+       }
+
+       .twitter{
+        position: relative;
+        margin-left: 60px;
+        cursor: pointer;
+       }
+       .cyee{
+       position: absolute;
+       height: 42px;
+       width: 42px;
+       }
+       .twi{
+        position: absolute;
+        top: 15px;
+        left:14px;
+        
+       }
+
+
+    .fottext{
+        display: flex;
+    }
+
+
+       .inddro{
+        margin-left: 800px;
+        margin-top: 35px;
+        
+        h3{
+            font-family: Poppins;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 27px;
+            text-align: left;
+            margin-bottom: 10px;
+            ;
+            
+         }
+         p{
+            font-family: Poppins;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 27px;
+            text-align: left;
+            color: rgba(30, 30, 30, 0.5);
+            line-height: 50px;
+           cursor: pointer;
+         }
+       }
+
+       .comp{
+            margin-left: 100px;
+            margin-top: 35px;
+            
+            h3{
+                font-family: Poppins;
+                font-size: 18px;
+                font-weight: 600;
+                line-height: 27px;
+                text-align: left;
+                margin-bottom: 10px;
+                
+                
+             }
+             p{
+                font-family: Poppins;
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 27px;
+                text-align: left;
+                color: rgba(30, 30, 30, 0.5);
+                line-height: 50px;
+                cursor: pointer;
+             }
+           }
+       
+
+           .contact{
+            margin-left: 100px;
+            margin-top: 35px;
+            
+            h3{
+                font-family: Poppins;
+                font-size: 18px;
+                font-weight: 600;
+                line-height: 27px;
+                text-align: left;
+                margin-bottom: 10px;
+                
+             }
+             p{
+                font-family: Poppins;
+                font-size: 18px;
+                font-weight: 400;
+                line-height: 27px;
+                text-align: left;
+                color: rgba(30, 30, 30, 0.5);
+                line-height: 50px;
+                cursor: pointer;
+             }
+           }
